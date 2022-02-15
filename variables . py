@@ -1,0 +1,5 @@
+#variables in python
+x=89
+y=90
+print(x)
+print(y)
